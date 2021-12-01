@@ -1,0 +1,23 @@
+span {
+    float: right;
+    width: 1em;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 75%;
+    color:mediumorchid;
+}
+
+p {
+    font-size: 2em;
+    color:midnightblue;
+    font-family: fantasy;
+}
+
+img {
+    border-radius: 30px;
+    background:navajowhite;
+    padding: 30px;
+    width: 1050px;
+    height: 500px;
+    float: left;
+}
